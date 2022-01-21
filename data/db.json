@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "Ninja UX Designer",
+      "id": 1,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, iusto?"
+    },
+    {
+      "title": "Ninja Web Developer",
+      "id": 2,
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque molestias consequuntur dignissimos obcaecati! Labore."
+    },
+    {
+      "title": "Ninja Vue Developer",
+      "id": 3,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo."
+    }
+  ]
+}
